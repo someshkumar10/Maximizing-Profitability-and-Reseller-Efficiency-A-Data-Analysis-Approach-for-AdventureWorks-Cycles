@@ -1,5 +1,7 @@
-# Business-Data-Management-
-Business data management project using Power bi, python and excel to solve real world business problem, find solutions, give recommendation. 
+[Raw Data Source](https://github.com/microsoft/powerbi-desktop-samples/blob/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx)
 
-Relevant resources
-https://drive.google.com/drive/u/0/folders/172jSfom_meu6kVH1Chk4ndqV_DokOg_k
+[PowerBi Analysis Report](https://app.powerbi.com/links/xjiDnm4Cs6?ctid=35e8087e-75a7-4479-b528-df0fbbb7fc26&pbi_source=linkShare)
+
+[Merging Data Tables using Python](https://colab.research.google.com/drive/1IkxHlAYhJx5JEWdpsSGhzr1Vhmpi66fO)
+
+[EDA & Analysis using Python](https://colab.research.google.com/drive/16V81DWjp7SLFqPbrfleSFGikpK2Grg4A)
