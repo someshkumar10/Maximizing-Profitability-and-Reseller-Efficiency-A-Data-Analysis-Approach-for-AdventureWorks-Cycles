@@ -25,7 +25,9 @@ analysis will be conducted using Python for data processing, with Power BI and E
 
 [EDA & Analysis using Python](https://colab.research.google.com/drive/16V81DWjp7SLFqPbrfleSFGikpK2Grg4A)
 
+```
 Some Visuals of the project
+```
 
 <img width="2693" height="1471" alt="Screenshot 2026-11-08 225558" src="https://github.com/user-attachments/assets/6a2244b5-fee4-4222-8c4f-d43abac616c3" />
 <img width="2406" height="1237" alt="Screenshot 2026-11-08 225532" src="https://github.com/user-attachments/assets/e816bf92-441a-491d-80ac-5fdedbe3e371" />
