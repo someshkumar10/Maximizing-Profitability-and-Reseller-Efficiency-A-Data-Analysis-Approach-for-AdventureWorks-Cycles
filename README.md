@@ -24,3 +24,11 @@ analysis will be conducted using Python for data processing, with Power BI and E
 [Merging Data Tables using Python](https://colab.research.google.com/drive/1IkxHlAYhJx5JEWdpsSGhzr1Vhmpi66fO)
 
 [EDA & Analysis using Python](https://colab.research.google.com/drive/16V81DWjp7SLFqPbrfleSFGikpK2Grg4A)
+
+Some Visuals of the project
+
+<img width="2693" height="1471" alt="Screenshot 2026-11-08 225558" src="https://github.com/user-attachments/assets/6a2244b5-fee4-4222-8c4f-d43abac616c3" />
+<img width="2406" height="1237" alt="Screenshot 2026-11-08 225532" src="https://github.com/user-attachments/assets/e816bf92-441a-491d-80ac-5fdedbe3e371" />
+<img width="2733" height="1256" alt="Screenshot 2026-11-08 225353" src="https://github.com/user-attachments/assets/392f98f0-e822-4acc-ba17-8e572ee1d351" />
+<img width="2868" height="1718" alt="image" src="https://github.com/user-attachments/assets/844625ef-5c2a-4672-b6e9-8366a791d5c4" />
+
